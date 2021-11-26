@@ -12,6 +12,7 @@ The Candy-Machine-Mint project is meant to be as simple and usable as possible, 
 
 ### Prerequisites
 
+
 * Ensure you have recent versions of both `node` and `yarn` installed.
 
 * Follow the instructions [here](https://docs.solana.com/cli/install-solana-cli-tools) to install the Solana Command Line Toolkit.
